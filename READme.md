@@ -76,10 +76,7 @@ model = pickle.load(open("xgb_best_model.pkl", "rb"))
 ---
 
 ## **6. Authors**
-- Hasyashri Bhatt  
-- Baban  
-- Fenil  
-- Shrinu  
+- Hasyashri Bhatt    
 ---
 
 ## **7. License**
